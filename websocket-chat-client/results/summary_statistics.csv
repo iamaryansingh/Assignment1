@@ -1,0 +1,13 @@
+metric,value,unit
+total_messages,500000,messages
+successful_messages,500000,messages
+failed_messages,0,messages
+success_rate,100.00,percent
+total_duration,33.244,seconds
+overall_throughput,15040.31,msg_per_sec
+mean_latency,0.84,ms
+median_latency,1,ms
+p95_latency,2,ms
+p99_latency,2,ms
+min_latency,0,ms
+max_latency,3932,ms
