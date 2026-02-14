@@ -17,7 +17,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class LoadTestClient {
     
-    private static final String SERVER_URL = "ws://localhost:8080/chat/";
+    // private static final String SERVER_URL = "ws://localhost:8080/chat/";
+    private static final String SERVER_URL = "ws://35.89.93.23:8080/chat/";
+
     private static final int TOTAL_MESSAGES = 500000;
     
     // WARMUP: Fewer threads, more messages per thread

@@ -28,8 +28,8 @@ public class Main {
             System.out.println("===========================================");
             System.out.println("  SERVER READY");
             System.out.println("===========================================");
-            System.out.println("WebSocket endpoint: ws://localhost:" + WEBSOCKET_PORT + "/chat/{roomId}");
-            System.out.println("Health check endpoint: http://localhost:" + HEALTH_CHECK_PORT + "/health");
+            System.out.println("WebSocket endpoint: " + WEBSOCKET_PORT + "/chat/{roomId}");
+            System.out.println("Health check endpoint:" + HEALTH_CHECK_PORT + "/health");
             System.out.println();
             System.out.println("Press ENTER to stop the server...");
             System.out.println("===========================================");
