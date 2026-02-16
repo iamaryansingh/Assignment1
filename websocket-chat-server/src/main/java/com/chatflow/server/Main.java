@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Main {
     
-    private static final int WEBSOCKET_PORT = 8081;
+    private static final int WEBSOCKET_PORT = 8080;
     private static final int HEALTH_CHECK_PORT = 8081;
 
     public static void main(String[] args) {

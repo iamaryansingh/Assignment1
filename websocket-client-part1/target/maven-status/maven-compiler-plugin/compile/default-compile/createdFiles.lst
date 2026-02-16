@@ -1,0 +1,8 @@
+com/chatflow/client/metrics/MetricsCollector.class
+com/chatflow/client/generator/MessageGenerator.class
+com/chatflow/client/LoadTestClient.class
+com/chatflow/client/worker/SenderWorker.class
+com/chatflow/client/worker/SenderWorker$ReusableWebSocketClient.class
+com/chatflow/client/worker/SenderWorker$ResponseData.class
+com/chatflow/client/model/ChatMessage.class
+com/chatflow/client/worker/SenderWorker$ConnectionInfo.class
